@@ -1,3 +1,5 @@
+/* eslint-disable no-underscore-dangle */
+
 export default function getNeighborhoodsList() {
   this.sanFranciscoNeighborhoods = ['SOMA', 'Union Square'];
 
